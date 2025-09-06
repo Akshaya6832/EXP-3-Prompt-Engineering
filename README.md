@@ -43,7 +43,15 @@ Within a specific use case (e.g., summarizing text, answering technical question
 
 **Prompt : "You are an expert in wireless communications. Summarize about 5G propagation models. Focus on main models, their advantages, limitations, and real-world applications. Keep summary clear, concise, and structured for a technical audience."**
 
+<img width="802" height="513" alt="image" src="https://github.com/user-attachments/assets/6a9c1cb4-f6db-4d6a-b0d5-6e61ef80efd3" />
+
+
 ## Output
+The AI models we are going to compare are mentioned in the image.
+
+<img width="802" height="563" alt="image" src="https://github.com/user-attachments/assets/b0e0193a-5029-41a4-8602-f736e52594cd" />
+
+
 Responses from the AI models:
 
 **1. Chatgpt.**
@@ -370,6 +378,9 @@ Spectrum planning and allocation
 5G deployment and performance evaluation
 These models are essential for ensuring reliable and efficient 5G network performance. The choice of model depends on the specific use case, environment, and frequency band.
 
+<img width="795" height="487" alt="image" src="https://github.com/user-attachments/assets/c3c9bf31-5ed9-4759-beaf-cf6b55a596eb" />
+
+
 **Comparison Table :**
 
 <img width="1450" height="680" alt="Screenshot 2025-09-06 141916" src="https://github.com/user-attachments/assets/43b18070-68b0-41dc-8aa5-c433c595a77d" />
@@ -382,6 +393,10 @@ Cohere AI presented a balanced overview highlighting empirical, deterministic, s
 Meta AI gave a concise yet comprehensive summary, focusing on main models relevant for network planning with inclusion of regulatory considerations (ITU-R) and established research models (METIS).
 
 ## Result
+
+<img width="794" height="459" alt="image" src="https://github.com/user-attachments/assets/6b840d2b-b290-44e4-a95d-7f8612044e09" />
+
+
 Overall Recommendation:
 For deep technical detail and stepwise understanding, ChatGPT and Claude are top picks.
 For explanations focused on 5G challenges and practical usability, Bard and Cohere stand out.
